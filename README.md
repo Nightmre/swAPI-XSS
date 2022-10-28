@@ -7,3 +7,13 @@
 
 
 [Click here to read about the swagger API XSS](https://www.vidocsecurity.com/blog/hacking-swagger-ui-from-xss-to-account-takeovers/)
+
+
+Usage:
+
+```
+git clone https://github.com/Nightmre/swAPI-XSS.git
+cd swAPI-XSS
+chmod +x swxss.sh
+./swxss.sh list.txt
+```
